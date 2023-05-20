@@ -39,7 +39,7 @@ footer{
 .slider{
     margin: 0 auto;
     width: 1000px;
-    height: 500px;
+    height: 600px;
     overflow: hidden;
     border: 5px solid #FFF;
 
@@ -62,7 +62,7 @@ footer{
 }
 
 .slide img {
-    width: 1000px;
+    width: 1022px;
 }
 
 .radio-btn{
